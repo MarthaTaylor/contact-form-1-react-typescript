@@ -1,12 +1,17 @@
-# Getting Started with Create React App
-This is a Contact form built with react 16.8 using hooks and typescript
-Accessibility and autocomplete has been added along with a recaptcha to avoid spam
-Local storage and building out a more modular form component can be added later
+
+# Project
+This is a simple contact form version one coded in
+- React & Typescript
 
 # To start
 clone repo and run in terminal 
 > npm install
 > npm start
+
+# Getting Started with Create React App
+This is a Contact form built with react 16.8 using hooks and typescript
+Accessibility and autocomplete has been added along with a recaptcha to avoid spam
+Local storage and building out a more modular form component can be added later
 
 # Getting Started with Create React App
 
