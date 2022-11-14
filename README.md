@@ -5,8 +5,8 @@ This is a simple contact form version one coded in
 
 # To start
 clone repo and run in terminal 
-> npm install
-> npm start
+- npm install
+- npm start
 
 # Getting Started with Create React App
 This is a Contact form built with react 16.8 using hooks and typescript
