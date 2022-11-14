@@ -1,4 +1,4 @@
-.App {
+.contactform {
   text-align: center;
   background-color: #282c34;
   min-height: 100vh;
@@ -8,24 +8,4 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-#particles-js {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	height: 100vh;
-	z-index: -1;
-}
-main {
-	width: 450px;
-	padding: 2rem;
-	background-color: rgba(0, 0, 0, 0.438);
-}
-
-header {
-	color: white;
-	padding-bottom: 1.5rem;
-	text-align: center;
 }
